@@ -1,0 +1,2 @@
+let numero = parseInt(Math.random() * 11);
+console.log (`O número é: ${numero}`);
