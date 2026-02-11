@@ -1,0 +1,11 @@
+let idade = prompt("Digite sua idade: ");
+
+if(idade >=18) {
+
+alert(" pode ser preso");
+
+} else {
+
+alert(" não pode ser preso");
+
+} 
