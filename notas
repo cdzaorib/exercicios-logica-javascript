@@ -1,0 +1,9 @@
+let nota = parseInt(Math.random() * 11); 
+
+if (nota >= 7) {
+    alert("Aprovado!");  
+} else {
+    alert("Reprovado!");
+}
+
+console.log(`Sua nota foi ${nota}.`);
